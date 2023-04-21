@@ -2,3 +2,9 @@
 body{
 	background-color:#cccccc;
 }
+h1,h3 {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
