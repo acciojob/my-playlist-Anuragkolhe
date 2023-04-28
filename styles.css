@@ -1,10 +1,32 @@
 /*  your css code here. If applicable */
-body{
-	background-color:#cccccc;
+*{
+  background-color: #cccccc;
 }
-h1,h3 {
-  text-align: center;
+h1,h2{
+	text_align:centre;
 }
-div {
-  text-align: center;
+.player_one{
+	background-color:white;
+	border:1px solid black;
+	border-radius:10px;
+	padding:20px;
+}
+li{
+	background-color:white;
+}
+a{
+	text-decoration:none;
+}
+.player-two{
+	padding:10px;
+	background-color:white;
+	border:1px solid black;
+	display:flax;
+	flex-direction:column;
+	width:500px;
+	justify-content:space-around;
+	align-items:centre;
+	margin-left:500px;
+	margin:auto;
+	border-radius:10px;
 }
