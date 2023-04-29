@@ -21,7 +21,7 @@ a{
 	padding:10px;
 	background-color:white;
 	border:1px solid black;
-	display:flax;
+	display:flex;
 	flex-direction:column;
 	width:500px;
 	justify-content:space-around;
